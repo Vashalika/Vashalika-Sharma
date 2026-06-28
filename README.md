@@ -1,4 +1,4 @@
-# Vashalika-Sharma
+# Vashalika
 
 🎓 Computer Science Student
 
