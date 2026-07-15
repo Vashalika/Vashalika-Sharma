@@ -1,23 +1,12 @@
-# 👋 Hey, I'm Vashalika
+# ii, I'm Vashalika 🎓👋🏻
 
-<div align="center" style="
-  background: #0b0b0f;
-  color: #e0e0e0;
-  padding: 20px;
-  border-radius: 12px;
-  border: 1px solid #222;
-  font-family: system-ui, -apple-system, sans-serif;
-">
-
-💻 **Computer Science Student**  
-🚀 Passionate about **Software Development**, **Data Analytics**, and **Web Development**  
-🌱 Learning: **Python, DSA, NumPy, Pandas, SQL, Machine Learning**
-
-</div>
+🌱 I'm currently learning **Python**, **Data Structures & Algorithms**, and **Data Science**.  
+🔭 I'm currently working on **E-commerce Analytics** and **Streamlit Dashboards**!  
+💻 Passionate about **Software Development**, **Data Analytics**, and **Web Development**.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -36,34 +25,34 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Exploring
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vashalikasharma-collab&theme=dark&show_icons=true&hide_border=true&bg_color=0b0b0f" alt="Vashalika's GitHub Stats" />
-
-</div>
+- 📊 **Data Analytics**
+- 🤖 **Machine Learning**
+- 💾 **SQL**
+- 📈 **Power BI**
 
 ---
 
-## 💬 Final Quote
+## 💬 Random Dev Quote
 
 <div align="center" style="
-  background: #0f0f13;
-  color: #cfcfcf;
-  padding: 15px 25px;
-  border-radius: 10px;
+  background: #0b0b0f;
+  color: #e0e0e0;
+  padding: 18px 28px;
+  border-radius: 12px;
   border: 1px solid #222;
   font-family: system-ui, -apple-system, sans-serif;
-  max-width: 600px;
-  margin: 20px auto;
+  max-width: 620px;
+  margin: 25px auto;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.35);
 ">
 
-> “The best way to predict the future is to create it.”  
-> – **Peter Drucker**
+> “Any sufficiently advanced technology is indistinguishable from magic.”  
+> – **Arthur C. Clarke**
 
 </div>
 
-<p align="center" style="color: #888;">
+<p align="center" style="color: #999; font-size: 13px;">
   Made with ❤️ by <b>Vashalika Sharma</b>
 </p>
