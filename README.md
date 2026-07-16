@@ -109,36 +109,29 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vashalika&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Vashalika&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vashalika&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Vashalika&theme=tokyonight&hide_border=true" />
 </p>
 
----
 ---
 
 # 🚀 Currently Learning
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python" />
 
-<img src="https://skillicons.dev/icons?i=pandas"/>
+<img src="https://skillicons.dev/icons?i=git" />
 
-<img src="https://skillicons.dev/icons?i=numpy"/>
+<img src="https://skillicons.dev/icons?i=github" />
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=vscode" />
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=react" />
 
 </p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
