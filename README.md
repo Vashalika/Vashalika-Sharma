@@ -1,117 +1,197 @@
-# ✋ Hey, I'm Vashalika 🎓
+<h1 align="center">Hi 👋, I'm Shelly</h1>
 
-🌱 I'm currently learning **Python**, **Data Structures & Algorithms**, and **Data Science**.  
-🔭 I'm currently working on **E-commerce Analytics** and **Streamlit Dashboards**!  
-💻 Passionate about **Software Development**, **Data Analytics**, and **Web Development**.
+<h3 align="center">
+💻 Data Science Enthusiast | Python Developer | Future Software Engineer 🚀
+</h3>
 
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" alt="C">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" alt="C++">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">
-<img src="https://img.shields.io/badge/HTML-EE3436?style=for-the-badge&logo=html5" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3" alt="CSS">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-<img src="https://img.shields.io/badge/NumPy-0D316F?style=for-the-badge&logo=numpy" alt="NumPy">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql" alt="SQL">
-
-</div>
-
----
-
-## 📚 Currently Exploring
-
-- 📊 **Data Analytics**
-- 🤖 **Machine Learning**
-- 💾 **SQL**
-- 📈 **Power BI**
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center" style="
-  background: #000000;
-  color: #ffffff;
-  pa# ✋ Hey, I'm Vashalika 🎓
-
-🌱 I'm currently learning **Python**, **Data Structures & Algorithms**, and **Data Science**.  
-🔭 I'm currently working on **E-commerce Analytics** and **Streamlit Dashboards**!  
-💻 Passionate about **Software Development**, **Data Analytics**, and **Web Development**.
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" alt="C">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" alt="C++">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">
-<img src="https://img.shields.io/badge/HTML-EE3436?style=for-the-badge&logo=html5" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3" alt="CSS">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-<img src="https://img.shields.io/badge/NumPy-0D316F?style=for-the-badge&logo=numpy" alt="NumPy">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql" alt="SQL">
-
-</div>
-
----
-
-## 📚 Currently Exploring
-
-- 📊 **Data Analytics**
-- 🤖 **Machine Learning**
-- 💾 **SQL**
-- 📈 **Power BI**
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center" style="
-  background: #000000;
-  color: #ffffff;
-  padding: 20px 30px;
-  border-radius: 14px;
-  border: 1px solid #333;
-  font-family: system-ui, -apple-system, sans-serif;
-  max-width: 640px;
-  margin: 30px auto;
-  box-shadow: 0 6px 24px rgba(0,0,0,0.6);
-  text-align: center;
-">
-
-> “Any sufficiently advanced technology is indistinguishable from magic.”  
-> – **Arthur C. Clarke**
-
-</div>
-
-<p align="center" style="color: #888; font-size: 13px;">
-  Made with ❤️ by <b>Vashalika Sharma</b>
-</p>dding: 20px 30px;
-  border-radius: 14px;
-  border: 1px solid #333;
-  font-family: system-ui, -apple-system, sans-serif;
-  max-width: 640px;
-  margin: 30px auto;
-  box-shadow: 0 6px 24px rgba(0,0,0,0.6);
-  text-align: center;
-">
-
-> “Any sufficiently advanced technology is indistinguishable from magic.”  
-> – **Arthur C. Clarke**
-
-</div>
-
-<p align="center" style="color: #888; font-size: 13px;">
-  Made with ❤️ by <b>Vashalika Sharma</b>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Data+Science+Learner;Machine+Learning+Enthusiast;Streamlit+Dashboard+Developer;Always+Learning+New+Technologies" />
 </p>
+
+---
+
+# 👩‍💻 About Me
+
+💜 Passionate about Data Science & Software Development
+
+📚 Currently learning Python, Machine Learning, SQL & Web Development
+
+📊 Building Interactive Data Analytics Dashboards
+
+🚀 Interested in AI, Data Analytics and Automation
+
+🌱 Always exploring new technologies
+
+🎯 Goal: Become a Professional Data Scientist & Software Engineer
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=canva"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📊 SmartCart Analytics Dashboard
+
+Interactive Amazon Product Analytics Dashboard
+
+✔ Python
+
+✔ Pandas
+
+✔ NumPy
+
+✔ Plotly
+
+✔ Streamlit
+
+✔ Machine Learning
+
+---
+
+### 📈 Data Analytics Projects
+
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis
+
+✔ Dashboard Development
+
+✔ Business Insights
+
+✔ Data Visualization
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💖 Fun Fact
+
+✨ "Every expert was once a beginner."
+
+🚀 Keep Learning • Keep Building • Keep Growing
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
