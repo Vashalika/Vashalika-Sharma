@@ -1,44 +1,59 @@
-<h1 align="center">Hi 👋, I'm Shelly</h1>
+<!-- =========================
+        ANIMATED HEADER
+========================= -->
 
-<h3 align="center">
-💻 Data Science Enthusiast | Python Developer | Future Software Engineer 🚀
-</h3>
+<div align="center">
+
+# 👋 Hey, I'm Shelly
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Python+Developer;Machine+Learning+Learner;Dashboard+Developer;Future+Software+Engineer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+💻 Engineering Student
+
+🐍 Python Developer
+
+📊 Data Science Enthusiast
+
+🤖 Machine Learning Learner
+
+📈 Dashboard Developer
+
+🌱 Currently learning
+
+- Python
+- SQL
+- Machine Learning
+- Streamlit
+- Power BI
+- Git & GitHub
+
+🎯 Goal
+
+Become a Professional Data Scientist & Software Engineer.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Data+Science+Learner;Machine+Learning+Enthusiast;Streamlit+Dashboard+Developer;Always+Learning+New+Technologies" />
-</p>
 
----
-
-# 👩‍💻 About Me
-
-💜 Passionate about Data Science & Software Development
-
-📚 Currently learning Python, Machine Learning, SQL & Web Development
-
-📊 Building Interactive Data Analytics Dashboards
-
-🚀 Interested in AI, Data Analytics and Automation
-
-🌱 Always exploring new technologies
-
-🎯 Goal: Become a Professional Data Scientist & Software Engineer
-
----
-
-# 🌐 Connect with Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -62,11 +77,15 @@
 
 <img src="https://skillicons.dev/icons?i=javascript"/>
 
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
 <img src="https://skillicons.dev/icons?i=react"/>
 
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 
 <img src="https://skillicons.dev/icons?i=git"/>
 
@@ -74,15 +93,9 @@
 
 <img src="https://skillicons.dev/icons?i=vscode"/>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
 <img src="https://skillicons.dev/icons?i=figma"/>
 
 <img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=canva"/>
 
 </p>
 
@@ -90,7 +103,7 @@
 
 # 🚀 Featured Projects
 
-### 📊 SmartCart Analytics Dashboard
+## 📊 SmartCart Analytics
 
 Interactive Amazon Product Analytics Dashboard
 
@@ -108,17 +121,15 @@ Interactive Amazon Product Analytics Dashboard
 
 ---
 
-### 📈 Data Analytics Projects
+## 📈 EDA Projects
 
 ✔ Data Cleaning
 
-✔ Exploratory Data Analysis
+✔ Dashboard
 
-✔ Dashboard Development
+✔ Visualization
 
 ✔ Business Insights
-
-✔ Data Visualization
 
 ---
 
@@ -126,9 +137,9 @@ Interactive Amazon Product Analytics Dashboard
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
@@ -144,17 +155,17 @@ Interactive Amazon Product Analytics Dashboard
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=7"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -164,7 +175,17 @@ Interactive Amazon Product Analytics Dashboard
 
 ---
 
-# 💬 Random Dev Quote
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# ✍️ Random Dev Quote
 
 <p align="center">
 
@@ -174,24 +195,28 @@ Interactive Amazon Product Analytics Dashboard
 
 ---
 
-# 👀 Profile Views
+# 👀 Visitor Count
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
 ---
 
-# 💖 Fun Fact
+# 💡 Quote
 
-✨ "Every expert was once a beginner."
-
-🚀 Keep Learning • Keep Building • Keep Growing
+> **"Code. Learn. Improve. Repeat."** 🚀
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+<div align="center">
+
+## ⭐ Thanks for visiting my profile ⭐
+
+### Happy Coding 💜
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&section=footer"/>
