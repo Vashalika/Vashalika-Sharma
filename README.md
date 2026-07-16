@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Python+Developer;Data+Science+Learner;Machine+Learning+Enthusiast;Streamlit+Dashboard+Developer;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Data+Science+Learner;Machine+Learning+Enthusiast;Streamlit+Dashboard+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -14,36 +14,32 @@
 
 💜 Passionate about Data Science & Software Development
 
-📚 Currently Learning Python, SQL, Machine Learning & Web Development
+📚 Currently Learning Python, Machine Learning, SQL & Web Development
 
 📊 Building Interactive Data Analytics Dashboards
 
-🚀 Interested in AI, Automation & Data Analytics
+🚀 Interested in AI, Data Analytics & Automation
 
-🌱 Learning Something New Every Day
+🌱 Always Exploring New Technologies
 
-🎯 Goal: Become a Professional Software Engineer & Data Scientist
+🎯 Goal: Become a Professional Data Scientist & Software Engineer
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/Vashalika">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 </p>
@@ -54,7 +50,23 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript,react,nodejs,bootstrap,mysql,mongodb,git,github,vscode,figma,postman,canva"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=figma"/>
+<img src="https://skillicons.dev/icons?i=postman"/>
+<img src="https://skillicons.dev/icons?i=canva"/>
 
 </p>
 
@@ -62,24 +74,35 @@
 
 # 🚀 Featured Projects
 
-### 📊 SmartCart Analytics Dashboard
+## 📊 SmartCart Analytics Dashboard
 
-- 📈 Amazon Product Analytics
-- 🐍 Python
-- 📊 Pandas & NumPy
-- 📉 Plotly
-- 🌐 Streamlit
-- 🤖 Machine Learning
+✔ Amazon Product Analytics
+
+✔ Python
+
+✔ Pandas
+
+✔ NumPy
+
+✔ Plotly
+
+✔ Streamlit
+
+✔ Machine Learning
 
 ---
 
-### 📈 Data Analytics Projects
+## 📈 Data Analytics Projects
 
-- ✔ Data Cleaning
-- ✔ Exploratory Data Analysis
-- ✔ Dashboard Development
-- ✔ Business Insights
-- ✔ Interactive Visualizations
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis
+
+✔ Dashboard Development
+
+✔ Business Insights
+
+✔ Data Visualization
 
 ---
 
@@ -87,9 +110,29 @@
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vashalika&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vashalika&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vashalika&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Vashalika&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vashalika&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vashalika&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -119,7 +162,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Vashalika&style=for-the-badge&color=8A2BE2"/>
+<img src="https://komarev.com/ghpvc/?username=Vashalika&label=Profile+Views&color=6A5ACD&style=for-the-badge"/>
 
 </p>
 
@@ -127,16 +170,12 @@
 
 # 💖 Fun Fact
 
-> **"Every expert was once a beginner. Keep Learning, Keep Growing!" 🌱**
+✨ Every expert was once a beginner.
+
+🚀 Keep Learning • Keep Building • Keep Growing.
 
 ---
 
 <h3 align="center">
-✨ Thanks for Visiting My Profile ✨
+⭐ Thanks for Visiting My Profile ⭐
 </h3>
-
-<p align="center">
-
-⭐ If you like my work, don't forget to star my repositories!
-
-</p>
