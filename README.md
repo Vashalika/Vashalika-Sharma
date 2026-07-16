@@ -132,6 +132,8 @@
 <img src="https://skillicons.dev/icons?i=react" />
 
 </p>
+---
+
 # 📈 Contribution Graph
 
 <p align="center">
