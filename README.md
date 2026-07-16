@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shelly</h1>
+<h1 align="center">Hi 👋, I'm Vashalika</h1>
 
 <h3 align="center">
 💻 Data Science Enthusiast | Python Developer | Future Software Engineer 🚀
@@ -117,26 +117,28 @@
 </p>
 
 ---
+---
 
-# 📈 Most Used Languages
+# 🚀 Currently Learning
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vashalika&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=pandas"/>
+
+<img src="https://skillicons.dev/icons?i=numpy"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vashalika&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
