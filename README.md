@@ -105,15 +105,15 @@
 ✔ Data Visualization
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vashalika&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Vashalika&theme=tokyonight&hide_border=true" />
-</p>
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vashalika&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Vashalika&theme=tokyonight&hide_border=true" />
+
+</p>
 
 # 🚀 Currently Learning
 
