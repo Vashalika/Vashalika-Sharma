@@ -131,14 +131,12 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vashalika&theme=tokyo-night"/>
-
+  <img src="https://ghchart.rshah.org/6A5ACD/Vashalika" 
+       alt="Vashalika's GitHub Contribution Graph" />
 </p>
-
 ---
 
 # 💬 Random Dev Quote
