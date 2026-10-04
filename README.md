@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=Vashalika&label=Profile+Views&color=6A5ACD&style=for-the-badge"
        alt="Profile Views" />
 </div>
----
+
 
 # 👩‍💻 About Me
 
