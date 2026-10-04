@@ -5,11 +5,15 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Data+Science+Learner;Machine+Learning+Enthusiast;Streamlit+Dashboard+Developer;Always+Learning+New+Technologies" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins\&size=24\&pause=1000\&color=6A5ACD\&center=true\&vCenter=true\&width=750\&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Data+Science+Learner;Machine+Learning+Enthusiast;Streamlit+Dashboard+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vashalika&label=Profile+Views&color=6A5ACD&style=for-the-badge" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vashalika\&label=Profile+Views\&color=6A5ACD\&style=for-the-badge)
+
 </p>
 
 ---
